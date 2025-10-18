@@ -1,0 +1,49 @@
+# 🎓 Student Dashboard – Power BI Project
+
+An interactive Power BI dashboard that visualizes student data across multiple dimensions including demographics, academic performance, and engagement. This project showcases data storytelling through charts, maps, and insights derived from exploratory data analysis (EDA).
+
+
+---
+
+## 📊 Dashboard Features
+
+- **Bar Chart**: Department-wise student count
+- **Pie Chart**: Gender distribution
+- **Geo Location Map**: Country-wise student origin
+- **Age Group Analysis**: Segmented age visualization
+- **Scholarship vs GPA**: Scatter plot correlation
+- **Attendance Trends**: Line chart for engagement
+- **Extracurricular Participation**: Stacked bar chart
+
+---
+
+## 🧪 Exploratory Data Analysis (EDA)
+
+- Handled missing values and outliers
+- Converted data types (e.g., join date to datetime)
+- Created new features:
+  - `Roll No` as primary key
+  - `Age Group` for demographic segmentation
+  - `Place Count` for location-based analysis
+
+---
+
+## 📌 Key Insights
+
+- Departments with highest student enrollment
+- Gender ratio and diversity metrics
+- Geographic spread of international students
+- Scholarship trends based on GPA
+- Attendance patterns and engagement levels
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI**: Dashboard creation
+- **Python (optional)**: EDA and preprocessing
+- **GitHub**: Version control and collaboration
+
+
+
+
